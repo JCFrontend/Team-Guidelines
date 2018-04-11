@@ -29,9 +29,9 @@ $ hexo generate
 ### Develop
 
 - 添加导航
-  1. _data -> menu.yml
+  1. source -> _data -> menu.yml
   2. themes -> navy -> languages -> zh-cn.yml (menu/sidebar)
-  3. _data -> sidebar.yml
+  3. source -> _data -> sidebar.yml
 - source 文件夹下新建对应的文件夹
  
 #### hexo
