@@ -1,0 +1,30 @@
+title: Guide
+subtitle: "Team Guidelines"
+description: "Best Guidelines For Front-End Developer."
+author: 金诚集团信息技术部
+language: zh-cn
+timezone: UTC
+
+url: https://github.com/JCFrontend/Team-Guidelines
+root: /
+permalink: news/:year/:month/:day/:title/
+archive_dir: news
+code_dir: downloads/code
+new_post_name: :year-:month-:day-:title.md # File name of new posts
+post_asset_folder: true
+per_page: 0
+
+theme: navy
+deploy:
+  type: git
+  repo: git@github.com:JCFrontend/Team-Guidelines.git
+
+highlight:
+  enable: true
+  line_number: false
+
+disqus_shortname: 
+fb_admins: 100000247608790
+
+twitter: hexojs
+github: JCFrontend/Team-Guidelines
