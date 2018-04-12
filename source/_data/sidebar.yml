@@ -9,6 +9,8 @@ javaScripts:
 components:
   getting_started:
     overview: index.html
+  components:
+    JcFilter: JcFilter.html
 
 docs:
   getting_started:

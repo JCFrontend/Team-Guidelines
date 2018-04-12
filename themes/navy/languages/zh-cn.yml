@@ -16,6 +16,7 @@ page:
   last_updated: 上次更新：%s
 
 sidebar:
+  
   css:
     getting_started: 开始使用
     overview: 概述
@@ -23,10 +24,12 @@ sidebar:
   javaScripts:
     getting_started: 开始使用
     overview: 概述
-
+ 
   components:
     getting_started: 开始使用
     overview: 概述
+    components: components
+    JcFilter: JcFilter
 
   docs:
     getting_started: 开始使用
