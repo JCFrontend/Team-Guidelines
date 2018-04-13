@@ -33,9 +33,9 @@ $ hexo generate
   2. themes -> navy -> languages -> zh-cn.yml (menu/sidebar)
   3. source -> _data -> sidebar.yml
 - source 文件夹下新建对应的文件夹
- 
-#### hexo
-[hexo 官网](https://hexo.io/zh-cn/)
-[hexo指令](https://hexo.io/zh-cn/docs/commands.html)
+
+#### Resources  
+- [hexo 官网](https://hexo.io/zh-cn/)
+- [hexo指令](https://hexo.io/zh-cn/docs/commands.html)
 
 
