@@ -30,6 +30,7 @@ sidebar:
     overview: 概述
     components: components
     JcFilter: JcFilter
+    JcDisplayItem: JcDisplayItem
 
   docs:
     getting_started: 开始使用

@@ -11,6 +11,7 @@ components:
     overview: index.html
   components:
     JcFilter: JcFilter.html
+    JcDisplayItem: JcDisplayItem.html
 
 docs:
   getting_started:
